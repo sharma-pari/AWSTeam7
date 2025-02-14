@@ -1,4 +1,4 @@
-- Gant code/syntax: https://mermaid.js.org/syntax/gantt.html 
+- Gantt code/syntax: https://mermaid.js.org/syntax/gantt.html 
 - markdown syntax: https://www.markdownguide.org/cheat-sheet/ 
 
 - assuming we work on the project from 2/28 to 5/2
