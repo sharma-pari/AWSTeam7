@@ -1,17 +1,16 @@
 - Gant code/syntax: https://mermaid.js.org/syntax/gantt.html 
 - markdown syntax: https://www.markdownguide.org/cheat-sheet/ 
-- Also, I'm not familiar with Github, so if I make any mistakes I'm sorry TT
 
-- template, kind of, I just copy and pasted from the gantt website
+- assuming we work on the project from 2/28 to 5/2
 
 ```mermaid
 gantt
-    title A Gantt Diagram
+    title AWS Project: Software Timeline
     dateFormat YYYY-MM-DD
     section Section
-        A task          :a1, 2014-01-01, 30d
+        A task          :a1, 2025-02-28, 30d
         Another task    :after a1, 20d
     section Another
-        Task in Another :2014-01-12, 12d
+        Task in Another :2025-05-02, 12d
         another task    :24d
 ```
